@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalhando atualmente com Front-End e flutter
-- 🌱 Aprendendo flutter e typescript
+- 📚 Aprendendo flutter e typescript
 
 <div><a href="https://www.linkedin.com/in/leonardo-reiners-rosas-734802188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
